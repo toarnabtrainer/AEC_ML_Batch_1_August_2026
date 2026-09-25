@@ -184,6 +184,10 @@ For ML projects, **Statista** is useful if we are working on:
 
 <hr>
 
+<img width="390" height="342" alt="image" src="https://github.com/user-attachments/assets/97ed07de-8de9-43d0-9dfb-59acf3a2d83d" />
+
+<hr>
+
 ### 🔴 Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
 
