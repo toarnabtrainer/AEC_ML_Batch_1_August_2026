@@ -154,9 +154,12 @@ For ML projects, **Statista** is useful if we are working on:
 
 <hr>
 
-* **Link for Project Group Formation Form:** <https://bit.ly/3JCZdCx>
-* **Test on Machine Learning:**	<https://bit.ly/2ZJeb1z>
-* **Test on Correlation and Regression:** <https://bit.ly/3P2ps66->
+* **🔴 Link for Project Group Formation Form:** <https://bit.ly/3JCZdCx->
+* **🔴 Object-Oriented Programming in Python – 20 MCQs:** <https://bit.ly/4jpInZG->
+* **🔴 NumPy Fundamentals – 20 Multiple-Choice Questions:** <https://bit.ly/3VhSfL8->
+* **🔴 Pandas Fundamentals – 20 Multiple-Choice Questions:** <https://bit.ly/4z4EUVf->
+* **🔴 Test on Machine Learning – 10 Multiple-Choice Questions:**	<https://bit.ly/2ZJeb1z->
+* **🔴 Test on Correlation and Regression – 10 MCQs:** <https://bit.ly/3P2ps66->
 
 <hr>
 
